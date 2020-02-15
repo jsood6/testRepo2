@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         //edit blah comment......
     }
+    
+    func random() {
+        //blah blah
+        
+    }
 
 
 }
